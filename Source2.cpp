@@ -5,7 +5,7 @@
 using namespace std;
 #define rep(i, n) for(int i=0;i<n;i++)
 #define rep1(i, n) for(int i=1;i<=n;i++)
-#define MAX 1001
+#define MAX 2000
 
 int c[MAX][MAX];
 
